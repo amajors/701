@@ -1,0 +1,4 @@
+Apple,Facebook,Tesla,Google
+Google,Delta,Amazon,Apple
+Facebook,Apple,Microsoft,Tesla,Delta
+South West,Delta,American,Air France
